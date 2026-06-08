@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/event-explorer-platform-268893-268896/local_events_frontend"
+}
